@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopupMenuView</string>
+    <string name="copy">copy</string>
+    <string name="delete">delete</string>
+    <string name="revoke">revoke</string>
+    <string name="favor">favor</string>
+    <string name="save">save</string>
+    <string name="reply">reply</string>
+</resources>
